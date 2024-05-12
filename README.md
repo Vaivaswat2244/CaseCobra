@@ -6,35 +6,31 @@ Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Aut
 
 ## Features
 
-- 🛠️ Complete shop built from scratch in Next.js 14
-- 💻 Beautiful landing page included
-- 🎨 Custom artworks made by a professional illustrator
-- 💳 Secret admin dashboard to manage orders
-- 🖥️ Drag-and-drop file uploads
-- 🛍️ Customers can purchase directly from you
-- 🌟 Clean, modern UI on top of shadcn-ui
-- 🛒 Completely custom phone case configurator
-- 🔑 Authentication using Kinde
-- ✉️ Beautiful thank-you email after purchase
-- ✅ Apple-inspired configuration design
-- ⌨️ 100% written in TypeScript
-- 🎁 ...much more
+-  Complete shop built from scratch in Next.js 14
+-  Beautiful landing page included
+-  Custom artworks made by a professional illustrator
+-  Secret admin dashboard to manage orders
+-  Drag-and-drop file uploads
+-  Customers can purchase directly from you
+-  Clean, modern UI on top of shadcn-ui
+-  Completely custom phone case configurator
+-  Authentication using Kinde
+-  100% written in TypeScript
 
 ## Getting started
 
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/casecobra.git
+  git clone https://github.com/Vaivaswat2244/casecobra.git
+```
+after cloning the repo
+
+```bash
+  npm install
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
 
-## Acknowledgements
 
-- [Kinde](https://link.joshtriedcoding.com/kinde) for making this project possible
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
